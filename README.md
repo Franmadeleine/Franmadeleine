@@ -18,6 +18,8 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Playwright" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg" />
+<img align="center" alt="Git Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Cucumber" height="30" width="40" src="https://cucumber.io/images/logo.svg" />
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Selenium" height="30" width="40" src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" />
