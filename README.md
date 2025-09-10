@@ -15,7 +15,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="Playwright" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg" />
@@ -23,7 +23,7 @@
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="RSpec" height="30" width="40" src="https://rspec.info/assets/logo.png" />
   <img align="center" alt="Selenium" height="30" width="40" src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" />
-  <img align="center" alt="Capybara" height="30" width="40" src="https://raw.githubusercontent.com/wiki/teamcapybara/capybara/images/logo.png" />
+  <img align="center" alt="Capybara" height="30" width="40" src="https://raw.githubusercontent.com/teamcapybara/capybara/master/logo/capybara.png" />
   <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img align="center" alt="TestRail" height="30" width="40" src="https://www.gurock.com/images/testrail/testrail-icon.svg" />
 </div>
