@@ -2,8 +2,13 @@
 
 ### 👋 Olá, eu sou a Fran!
 
-- 🔍 Em transição de carreira para atuar como **QA Analyst**, com foco em qualidade de software e experiência do usuário  
-- 📚 Estudando **Postman**, **Playwright** e **JavaScript**  
+- 🔍 👩‍💻 QA Engineer Júnior com experiência em projetos voluntários e freelances, focada em qualidade de software e experiência do usuário.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 📚 Pós-graduada em Quality Assurance Engineer | Engenharia de garantia de qualidade de software
+- 📚 MBA em Comunicação e Mídia
+- 🧪 Experiência em planejamento de testes, testes manuais, testes funcionais, exploratórios e de regressão, registro de bugs em Jira e validação de fluxos.
+- 💻 Atualmente estudando Python para ampliar habilidades técnicas.
+- 🚀 Apaixonada por tecnologia, aprendizado contínuo e colaboração em ambientes ágeis.   
 - 💬 Pronomes: ela/dela  
 - 📫 Contato: fwmdms1@gmail.com  
 
